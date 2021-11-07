@@ -5,11 +5,14 @@
 
 - 📚 *Sou estudante de programação*.
 - 💻 *No momento estudando linguagem C++*
-- 📫 beatrizv.sonic@gmail.com
+- 📫 [Gmail](beatrizv.sonic@gmail.com)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biabeatr1z&show_icons=true&theme=radical)
 </a>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
 
 ##
   
