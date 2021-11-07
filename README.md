@@ -1,6 +1,5 @@
 ### Hello everyone 👋
-#### Olá pessoal!
-#### Eu sou a Beatriz.
+#### Olá pessoal! Eu sou a Beatriz.
 ####  Tudo bem com voces? Espero que sim.
 
 
