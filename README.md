@@ -10,9 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biabeatr1z&show_icons=true&theme=radical)
 </a>
-![Snake animation](https://github.com/biabeatr1z/biabeatr1z/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
 ##
   
