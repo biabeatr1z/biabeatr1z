@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 #### Olá pessoal!
-#####  Eu sou a Beatriz.
-######  Tudo bem com voces? Espero que sim.
+#### Eu sou a Beatriz.
+####  Tudo bem com voces? Espero que sim.
 
 
 - 📚 Sou estudante de programação.
