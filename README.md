@@ -8,5 +8,8 @@
 - 💻 No momento estudando linguagem C++
 - 📫 beatrizv.sonic@gmail.com
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biabeatr1z&show_icons=true&theme=radical)
+
 ##
-  ![Snake animation](https:/biabeatr1z/biabeatr1z/github.com//blob/output/github-contribution-grid-snake.svg)
+  
